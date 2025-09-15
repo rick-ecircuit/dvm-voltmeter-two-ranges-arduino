@@ -1,6 +1,6 @@
 # DVM - Design and Build a Two Range Voltmeter using the Arduino.
 ## Intro
-![DVM Block Diagram.](DVM1_block_1.png "DVM Block Diagram.")
+![DVM Block Diagram.](/DVM1_block_1.png "DVM Block Diagram.")  
 Get hands-on experience with a Digital Voltmeter using
 - Resistor divider
 - PhotoMOS switches
