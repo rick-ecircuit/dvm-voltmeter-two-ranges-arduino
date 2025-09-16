@@ -1,11 +1,13 @@
 # DVM - Design and Build a Two Range Voltmeter using the Arduino.
 ## Intro
+
 Get hands-on experience with a Digital Voltmeter using
 - Resistor divider
 - PhotoMOS switches
 - Low-pass filter
-- Ardiuno's UNO's ADC  
+- Ardiuno's UNO's ADC
 
+<br><img src="https://ecircuitcenter.com/DVM1/images/DVM1_block_1.PNG" alt="block diagram" width="50%"/><br><br>
 Specifications
 - Two voltage ranges: +4V and +20V.
 - Pushbutton selects voltage range
@@ -27,7 +29,7 @@ Files for all key project phases include
 >Get Hands-On Experience with 5 Key Design Phases  
 >www.ecircuitcenter.com/DVM1/DVM1_series.html
 
-## File list
+## Project File List
 Block Diagram, Schematic, Assembly
 - DVM1_block_1.png
 - protoboard-schematic.jpg
@@ -47,6 +49,7 @@ LTSPICE Simulations
 - DVM1_advanced1.asc
 
 Ardiuno Code
+- DVM1_flowchart1.jpg
 - DVM1_initial_test1.ino
 - DVM1_basic_voltmeter1.ino
 
@@ -54,7 +57,7 @@ Test Forms and Results Tracker
 - DVM1_Simulation_Test_Tracker.xlsx
 - DVM1_Prototype_Test_Tracker.xlsx
 
-Let me know what you find helpful or any other comments and suggestions. Thanks!  
+<br>Let me know what you find helpful or any other comments and suggestions. Thanks!  
 www.ecircuitcenter.com/contact.htm
 
 Have fun on your next learning / design / coding adventure!
