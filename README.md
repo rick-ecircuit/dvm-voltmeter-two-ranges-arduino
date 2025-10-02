@@ -2,20 +2,25 @@
 ## Intro
 
 Get hands-on experience with a Digital Voltmeter using
-- Resistor divider
-- PhotoMOS switches
-- Low-pass filter
+- Resistor Divider
+- PhotoMOS Switches
+- Low-Pass Filter
 - Ardiuno's UNO's ADC
 
 <br><img src="https://ecircuitcenter.com/DVM1/images/DVM1_block_1.PNG" alt="block diagram" width="50%"/><br><br>
-Specifications
+Check out an overview of the project.  
+https://www.instructables.com/Make-a-Two-Range-Voltmeter-DVM-With-Auto-Manual-Ra/  
+
+<br>Specifications
 - Two voltage ranges: +4V and +20V.
-- Pushbutton selects voltage range
+- Manual (pushbutton) or Auto Range Selection.
 - Accuracy
 	- 4V Range: Verror = ±15mV ±1.5% of Reading
 	- 20V Range: Verror = ±75mV ±1.5% of Reading  
 
-Files for all key project phases include
+*You can customize the hardware / software for a higher voltage range with the included Design Equations and Excel Calculator.*  
+
+<br>Project Files
 - Specifications
 - Circuit schematic
 - Design equations
@@ -52,6 +57,7 @@ Ardiuno Code
 - DVM1_flowchart1.jpg
 - DVM1_initial_test1.ino
 - DVM1_basic_voltmeter1.ino
+- DVM1_basic_voltmeter_auto1.ino
 
 Test Forms and Results Tracker
 - DVM1_Simulation_Test_Tracker.xlsx
